@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CameraConfig>
+  <CameraIP>192.168.10.220</CameraIP>
+  <CameraPort>8000</CameraPort>
+  <CameraUserName>admin</CameraUserName>
+  <CameraPassword>123456hkvs</CameraPassword>
+  <VideoPath>D:\RecordTest\</VideoPath>
+</CameraConfig>
